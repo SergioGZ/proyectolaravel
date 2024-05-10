@@ -1,0 +1,21 @@
+/** Hoja de estilos para la aplicación */
+body {
+    background-color: beige;
+}
+
+
+.nav-item:hover {
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.nav-item {
+    transition: 0.5s;
+    transform: scale(1);
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+
